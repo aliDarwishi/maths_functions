@@ -20,5 +20,17 @@ int main()
 	x -= subtract;
 	
 	
+	int multiply =0;
+	printf("X = %i", x)
+	
+	printf("Multipply X by input");
+	scanf(&multiply);
+	
+	
+	x = x*multiply;
+	
+	
+	
+	
 	
 }
