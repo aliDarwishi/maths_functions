@@ -11,4 +11,14 @@ int main()
 	
 	x += add;
 	
+	int subtract =0;
+	printf("X = %i", x)
+	
+	printf("Subtract from X");
+	scanf(&subtract);
+	
+	x -= subtract;
+	
+	
+	
 }
