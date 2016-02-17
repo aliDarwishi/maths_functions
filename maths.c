@@ -11,7 +11,4 @@ int main()
 	
 	x += add;
 	
-	
-	
-	
 }
