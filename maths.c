@@ -31,6 +31,18 @@ int main()
 	
 	
 	
+	int devide =0;
+	printf("X = %i", x)
+	
+	printf("Devide X by input");
+	scanf(&devide);
+	
+	
+	x = x/devide;
+	
+	printf("X = %i", x)
+	
+	
 	
 	
 }
