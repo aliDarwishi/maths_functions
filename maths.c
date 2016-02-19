@@ -58,9 +58,37 @@ int main()
 	
 	
 	
+	int[] array =5;
+		
+	for(int i= 0 i<array.size; i++)
+	{
+		int x = 0;
+		
+		printf("Enter an int");
+		scanf(&x);
+		
+		array[i] = x;
+		
+	}
 	
+	for(int i=0; i<5; i++)
+	{
+		int min= 0;
+		int max =200;
+		
+		if(array[i] > min)
+		{
+		
+			min = array[i];
+		}
+		else if(array[i] < max)
+		{
+			max = array[i];
+		}
+		
+	}
 	
-	
-	
-	
+	printf("Min = %i", min);
+	printf("Max = %i", max);
+		
 }
