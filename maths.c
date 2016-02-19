@@ -43,6 +43,24 @@ int main()
 	printf("X = %i", x)
 	
 	
+	int remainder =0;
+	printf("X = %i", x)
+	
+	printf("remainder of X from input");
+	scanf(&remainder);
+	
+	
+	x = x%devide;
+	
+	printf("X = %i", x)
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 }
