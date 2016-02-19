@@ -41,6 +41,7 @@ int main()
 	x = x/devide;
 	
 	printf("X = %i", x)
+	printf("X = %d", x);
 	
 	
 	
